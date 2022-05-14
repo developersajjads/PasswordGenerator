@@ -11,7 +11,7 @@ body{
   font-size: 15px;
   background: #eee;
 }
-.intro{
+.intro11{
    background: #fff;
    padding: 60px 30px;
    color: #333;
@@ -19,12 +19,12 @@ body{
    line-height: 1.5;
    text-align: center;
 }
-.intro h1 {
+.intro11 h1 {
    font-size: 18pt;
    padding-bottom: 15px;
 
 }
-.intro p{
+.intro11 p{
    font-size: 14px;
 }
 
